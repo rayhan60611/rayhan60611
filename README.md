@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/rayhan60611" target="blank"><img src="https://img.shields.io/twitter/follow/rayhan60611?logo=twitter&style=for-the-badge" alt="rayhan60611" /></a> </p>
 
 - 🌱 I’m currently learning **Vue Js** 
-- 
+
 - 🌱 I’m have done **Python** 
 
 - 🌱 I’m a professional **PHP & Laravel Deleveloper** 
