@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm M M Rayhan Parvez</h1>
-<h3 align="center">I am a highly professional, motivated and dedicated individual with strong communication and interpersonal skills, To Build Up My Career With A Well Known Organization Where I Can Show My Immense Aspiration To Become A Quick Learner And To Prove Myself As Sincere, Energetic And Devoted Educator Through Extensive Hard Working & Integrity, I am working in programming and web world for more than 1 years.Being a passionate individual with experiences in business field having Computer Science & Engineering background will help to use my potentials properly by holding this position. As the position suites me best so the career path will be much more flexible than other options. My over all skill makes me a Web developer, so you can hire me for your projects. Thanking you in advance for your time. Web Development Embedded System Video Editing UI Design</h3>
+<h3 align="center">I am a highly professional, motivated and dedicated individual with strong communication and interpersonal skills, To Build Up My Career With A Well Known Organization Where I Can Show My Immense Aspiration To Become A Quick Learner And To Prove Myself As Sincere, Energetic And Devoted Educator Through Extensive Hard Working & Integrity, I am working in programming and web world for more than 1 years. Being a passionate individual with experiences in IT field having Computer Science & Engineering background will help to use my potentials properly by holding this position. As the position suites me best so the career path will be much more flexible than other options. My over all skill makes me a Full Stack Web developer, so you can hire me for your projects. Thanking you in advance for your time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayhan60611&label=Profile%20views&color=0b8e25&style=flat" alt="rayhan60611" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/rayhan60611" target="blank"><img src="https://img.shields.io/twitter/follow/rayhan60611?logo=twitter&style=for-the-badge" alt="rayhan60611" /></a> </p>
 
-- 🌱 I’m currently learning **Vue Js** 
+- 🌱 I’m currently learning **ReactJs** 
 
-- 🌱 I’m have done **Python** 
+- 🌱 I’m have done **HTML/CSS/Javascript** 
 
-- 🌱 I’m a professional **PHP & Laravel Deleveloper** 
+- 🌱 I’m a professional **MERN STACK Deleveloper** 
 
 - 👨‍💻 All of my projects are available at [https://rayhan60611.github.io/mmrp_portfolio/](https://rayhan60611.github.io/mmrp_portfolio/)
 
