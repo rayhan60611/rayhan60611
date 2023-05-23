@@ -22,9 +22,15 @@
 - ⚡ Fun fact **I always try to keep my working Consistency maintained But the sad think that I Can't.**
 
 <h3 align="left">Connect with me:</h3>
+<p dir="auto">
+  <a href="https://www.linkedin.com/in/m-m-rayhan-parvez-035919171/" rel="nofollow"><img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" style="max-width: 100%;"></a>
+<a href="https://twitter.com/rayhan60611" rel="nofollow"><img src="https://camo.githubusercontent.com/5d03c86f6a75f7cbe80d135d9162fbf6dc46a31253cf30a8e9bb8279b4d574d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="Twitter" style="max-width: 100%;"></a>
+<a href="mailto:mmrp.cse@gmail.com"><img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" style="max-width: 100%;"></a></p>
+
+
 <p align="left">
 <a href="https://twitter.com/rayhan60611" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rayhan60611" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/m-m-rayhan-parvez-035919171/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/m-m-rayhan-parvez-035919171/" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/m-m-rayhan-parvez-035919171/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/attentive.stupid/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/attentive.stupid/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc1fgzh1jmobi1yiwgkjpdrw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/uc1fgzh1jmobi1yiwgkjpdrw" height="30" width="40" /></a>
 </p>
