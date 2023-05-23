@@ -29,8 +29,6 @@
 
 
 <p align="left">
-<a href="https://twitter.com/rayhan60611" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rayhan60611" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/m-m-rayhan-parvez-035919171/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/attentive.stupid/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/attentive.stupid/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc1fgzh1jmobi1yiwgkjpdrw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/uc1fgzh1jmobi1yiwgkjpdrw" height="30" width="40" /></a>
 </p>
