@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/rayhan60611" target="blank"><img src="https://img.shields.io/twitter/follow/rayhan60611?logo=twitter&style=for-the-badge" alt="rayhan60611" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs** 
+- 🌱 I’m currently learning **Express Js & Node Js** 
 
-- 🌱 I’m have done **HTML/CSS/Javascript** 
+- 🌱 I’m have done **HTML/CSS/Javascript/ReactJs** 
 
 - 🌱 I’m a professional **MERN STACK Deleveloper** 
 
