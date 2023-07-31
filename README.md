@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Express Js & Node Js** 
 
-- 🌱 I’m have done **HTML/CSS/Javascript/ReactJs** 
+- 🌱 I’m have done **HTML/CSS/Javascript/React Js** 
 
 - 🌱 I’m a professional **MERN STACK Deleveloper** 
 
